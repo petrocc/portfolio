@@ -1,0 +1,9 @@
+full name,iloname, ilo ip, mgt name, mgt ip, reason
+proxy10.wildblue.net,proxy10-prod,10.65.210.1,proxy10-prod,10.65.177.1,"Server is in .wildblue.net domain"
+wdc1cacapp01.prod.wdc1.wildblue.net,wdc1cacapp01-prod,10.65.218.194,wdc1cacapp01-prod,10.65.194.82,"This appears to be a windows server"
+nmspms02-test,,,nmsperfman02-test,10.67.90.77,"The primary interface is not in DNS"
+qawebtools01.nrsc.wildblue.local,,,qawebtools01-test,10.67.90.6,"This is a windows server and doesn't have a real dns entry."
+prodgisrpt01,prodgisrpt01-prod,10.65.218.191,prodgisrpt01-prod,10.65.194.81,"This is a windows server and I cannot determine the real name"
+prodsde02,prodsde02-prod,10.65.218.58,prodsde02-prod,10.65.194.48,"??? Ilo not responding, pingable but not sshable on mgt network" 
+innomediaems01.prod.wdc1.wildblue.net,,,,,external IP
+innomediaems02.prod.wdc1.wildblue.net,,,,,external IP
